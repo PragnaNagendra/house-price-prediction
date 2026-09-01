@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local files
+.env
+.DS_Store
+
+# Kaggle data and generated submissions
+train.csv
+test.csv
+sample_submission.csv
+submission.csv
+*.zip
